@@ -1,5 +1,5 @@
 var calcShipping = function(size, quantity) {
-  if (size == 4) {
+  if (size == 3) {
     return size * quantity;
   }
   else {
